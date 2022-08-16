@@ -10,4 +10,10 @@ atomicwrites==1.0
 atomicwrites==1.0
 pluggy=2.0
 pytest==7.0.1
+
+
+#Converage
+coverage==6.2
+pytest-cov==3.0.0
+
 -r requirements.txt
