@@ -7,7 +7,7 @@ Link do curso [Python pro](https://pythonpro.com.br/)
 
 [![Updates](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/shield.svg)](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/)
 [![Python 3](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/python-3-shield.svg)](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/)
-
+[![codecov](https://codecov.io/gh/Lucimar34/lybpynthonpro/branch/main/graph/badge.svg?token=IPXS1ZENMP)](https://codecov.io/gh/Lucimar34/lybpynthonpro)
 Suportada versão 3 Python
 
 Para instalar:
