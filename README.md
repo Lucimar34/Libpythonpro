@@ -14,8 +14,10 @@ Suportada versão 3 Python
 Para instalar:
 
 
-python3 -m venv .venv
+python3 -m venv .venv 
+
 source .venv/Scripts/activate
+
 pip install -r requirements-dev.txt
 
 
